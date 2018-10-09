@@ -13,6 +13,7 @@ Author: William Le Queux
 Illustrator: Cyrus Cuneo, RI
 
 Release Date: October 9, 2012 [EBook #41001]
+Last Updated: July 23, 2016
 
 Language: English
 
@@ -104,7 +105,7 @@ hard up, as he now was.
 
 My wife--for I had married three years before, just after I had entered
 the motor business--had from the first put him down as an adventurer,
-and a person to be avoided.  Her woman's instinct generally, led to
+and a person to be avoided.  Her woman's instinct generally led to
 correct conclusions.  Indeed, one night, when out with her sister, she
 had seen him in evening dress, seated in a box at a theatre with a lady,
 in pale blue and diamonds, and another man; and on a second occasion she
@@ -763,7 +764,7 @@ grasped her hands.  "Why, look!  She's been disfigured, just as her
 father has been!"  And he bent until his ear was against her heart.
 
 "Get me that little mirror from the wall--over there, Mr. Holford.
-Quick?" he urged.
+Quick!" he urged.
 
 I sprang to do his bidding, and he placed against her mouth the little
 carved bracket wherein the square of looking-glass was set.  When he
@@ -1307,7 +1308,7 @@ the first suspicion of anything being wrong.  Therefore would it not
 have been easier for him than for anyone else to enter the house in
 secret and kill the man who had stolen from him that mysterious secret?
 
-Yes, try how I would, I was unable to rid myself of the grave conviction
+Yet, try how I would, I was unable to rid myself of the grave conviction
 that my new acquaintance was cognisant of more than he had told me.  He
 was naturally a reserved man, it was true; yet there was an air of
 cosmopolitanism about him which spoke mutely of the adventurer.
@@ -2157,7 +2158,7 @@ I drew back, prepared for a fight, but next second a cry of amazement
 escaped my lips when I saw in the darkness of the cautiously-opened door
 a man's face--the thin, sallow, frightened face of Kershaw Kirk.
 
-"It's I, Holford?" he gasped.  "I must get away.  Langton must not see
+"It's I, Holford!" he gasped.  "I must get away.  Langton must not see
 me.  Remember you must not breathe a single word of your knowledge of
 myself!  Success now depends entirely upon your silence.  I will wire an
 appointment with you to-morrow.  Be careful, or you yourself may now be
@@ -2572,7 +2573,7 @@ unusual nature.  The one great truth had become impressed upon me that
 the man Kirk, madman or master criminal, had got rid of the evidences of
 his crime.
 
-He must Have disposed of the poor girl's body in the same manner as that
+He must have disposed of the poor girl's body in the same manner as that
 of her father!
 
 I recollected that when seated with him in Bath Road, Bedford Park, he
@@ -5436,7 +5437,7 @@ If Flynn went out I intended to watch his proceedings, for though I
 entertained only a vague suspicion of Langton, yet I felt confident that
 his friend was not acting squarely.
 
-Have you ever been seized with misgivings of a person whom, you have no
+Have you ever been seized with misgivings of a person whom you have no
 just cause to doubt?  Is not such a feeling the result of some unseen
 evil influence radiating from the person suspected--often quite rightly?
 
@@ -5549,7 +5550,7 @@ that scene so typical of London as the middle-class know it.
 Having lit a cigarette the doctor strolled down the Haymarket, and
 turning up Charles Street, passed the "Junior," crossed St. James's
 Square, where he entered the "Sports," made inquiry for someone, but
-found the person was hot in.  Then, continuing his way--while I walked
+found the person was not in.  Then, continuing his way--while I walked
 at a respectable distance behind--he turned into Duke Street, where at a
 door about half-way up he paused and tugged at a bell.
 
@@ -5778,7 +5779,7 @@ was back again?"
 
 "No one.  I obtained the knowledge for myself," I said, "and I have come
 here, Mr. Kirk, for several reasons, the chief being to ask you a simple
-and pointed question: Who killed Professor Greer?"
+and pointed question: who killed Professor Greer?"
 
 "My dear sir," he exclaimed, looking straight at me with unwavering
 gaze, a slight change, however, showing in his thin, grey countenance,
@@ -6504,7 +6505,7 @@ related to me.
 But I stirred myself quickly.  No, a thousand times no!  I would never
 believe evil of Mabel before I had absolute proof in black and white.
 The mystery of her disappearance was as great and inexplicable as the
-problem of Who killed Professor Greer?
+problem of who killed Professor Greer?
 
 CHAPTER TWENTY FOUR.
 
@@ -7311,7 +7312,7 @@ mentioned that Sir Mark Edwards had invited him for a few days."
 "Then they are not friends of long standing?"  I asked.
 
 "Probably not.  But--well, why do you ask such curious questions as
-these, Mr.--Holford?  What, indeed, is the motive of all this inquiry?
+these, Mr.--Holford!  What, indeed, is the motive of all this inquiry?
 The Professor is a well-known man, and you could easily approach him
 yourself," the keen solicitor remarked.
 
@@ -8431,7 +8432,7 @@ act of a person half demented by the desire for revenge."
 
 "And you are unaware of who did this?"
 
-"I have a suspicion--a slight Suspicion.  It is for me to prove its
+"I have a suspicion--a slight suspicion.  It is for me to prove its
 truth."
 
 "You will now see the terrible position in which I have been placed, Mr.
@@ -8691,7 +8692,7 @@ survey north of London.  He was brother-in-law to Leftwich.  It was he
 who entered the house in Sussex Place to make certain that his relative
 was dead, and who, on finding Ethelwynn there, attacked her so savagely,
 believing he had killed her.  Finding that he had not, he evidently
-followed the Professor, and, alas I avenged Leftwich's death."
+followed the Professor, and, alas! avenged Leftwich's death."
 
 "Then the poor Professor is dead?"  I said, amazed.
 
@@ -8741,7 +8742,7 @@ moment."
 "Ah!" she sobbed, "you do not know all I've suffered in these long weeks
 we have been parted."
 
-"No," I said.  "Tell me, deadest, tell me all."
+"No," I said.  "Tell me, dearest, tell me all."
 
 Then, in broken sentences, smiling now and then through her tears, she
 explained how, on receipt of the false telegram, she had at once gone to
